@@ -12,5 +12,4 @@ The index and thumb are used to set the scale and by their movement we alter the
 The pinky is used to set the desired volume by being raised or bent.
 
 Below is a working demo:-
-<img src="">
-![Image of Model](C:\Users\SHIVAM JHA\Desktop\volume_control.png)
+![Image of Model](https://github.com/jhashivam-2001/gesturebasedvolumecontroller/blob/main/Submission/VolumeController_ShivamJha/volume_control.png)
