@@ -42,5 +42,7 @@ If you face any type of issue with the webcam, try changing the following value 
   
   
   Screenshot:
+  
+  
   ![Screenshot 2021-08-03 221738](https://user-images.githubusercontent.com/74948909/128076548-62bc20f4-0445-4ea0-9c98-2c4a31ed10eb.png)
 
