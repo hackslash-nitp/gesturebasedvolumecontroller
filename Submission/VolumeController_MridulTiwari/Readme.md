@@ -1,6 +1,3 @@
-## Demo
-![GIF](VolumeController.gif)
-
 
 ## Overview
 This is an Elementry Volume Control App using Hand Gestures. The App has been Designed using OpenCv, Mediapipe & Pycaw which takes input using Webcam/USB-Camera and returns detection of hand gestures with certain points which are basically used for Decreasing/Increasing the volumne of the System.
