@@ -12,7 +12,7 @@ pip install opencv-python
 * The pinky is used to set the desired volume by being raised or bent.
 * The application window terminates as soon as we remove our hand from staging area.
 * The user may face some difficulties with the index numbers in setting up cv2.VideoCapture(0). In that case try 1 or 2 instead of 0.
-* To install dependencies run <span style="background-color: #FFFF00">"$pip install -r requirements.txt"</span>.
+* To install dependencies create a virtual env. in python version less than 3.9 and run <span style="background-color: #FFFF00">"$pip install -r requirements.txt"</span>.
 
 Below is a working demo:-
 
